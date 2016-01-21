@@ -1,0 +1,28 @@
+{
+  "ProjectName": "2101 old NS 1.4.3",
+  "ProjectGuid": "2843b4f0-d8a5-4c19-a5ed-52ae443f6e26",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.the2101oldNS143",
+  "DisplayName": "2101 old NS 1.4.3",
+  "Author": "",
+  "Description": "2101 old NS 1.4.3",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.4.3",
+  "Framework": "NativeScript"
+}
